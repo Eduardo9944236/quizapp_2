@@ -163,9 +163,13 @@ main {
         gap: 16px;
     }
 
+    .tema img {
+        width: 24px;
+    }
+
     .tema button {
         width: 48px;
-        height: 48px;
+        height: 28px;
     }
 
     .tema button div {
@@ -173,9 +177,7 @@ main {
         height: 20px;
     }
 
-    .tema img {
-        width: 24px;
-    }
+
 
     main {
         display: flex;
