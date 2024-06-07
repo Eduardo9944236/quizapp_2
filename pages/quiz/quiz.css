@@ -339,4 +339,10 @@ main {
         font-size: 22px;
     }
 
+    main button {
+        font-size: 22px;
+        padding: 24px;
+        border-radius: 24px;
+    }
+
 }
