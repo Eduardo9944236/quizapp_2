@@ -8,3 +8,5 @@ botaoTema.addEventListener("click", () => {
 })
 
 verificarTema(body, botaoTema)
+
+const botoesAssunto = document.querySelectorAll()
